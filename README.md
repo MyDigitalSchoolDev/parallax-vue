@@ -1,24 +1,13 @@
 # projectfront
 
-## Project setup
+## Utilisation du parallax
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+A l'aide d'un plugin VueJS, la mise en place du parallax est simplifiée.
 ```
 
-### Compiles and minifies for production
+### Comment ça fonctionne ?
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+Uniquement entre deux balises <parallax> avec un paramètre speed-factor qui permet de 
+jauger la vitesse de celui-ci.
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
